@@ -17,4 +17,4 @@ deploy:
   bucket_path: "React-frontend"
   on:
     branch: main
-  access_key_id: $AWS_ACCESS_KEY
+  access_key_id: "AKIAT7CCOVVFQERUIMXK"
