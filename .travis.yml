@@ -18,3 +18,4 @@ deploy:
   on:
     branch: main
   access_key_id: "AKIAT7CCOVVFQERUIMXK"
+  
